@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>BIG_LED/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Build>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>4</Position><ScreenPosX>728</ScreenPosX><ScreenPosY>481</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Find-All-References</Factory></Window><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Select-Ambiguous-Definitions</Factory></Window></Windows></PreferedWindows>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>648</ColumnWidth1><ColumnWidth2>371</ColumnWidth2><ColumnWidth3>92</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>396</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>SourceBrowser</Factory></Window></Windows></PreferedWindows></Workspace>
+      <Find-in-Files>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>4</Position><ScreenPosX>728</ScreenPosX><ScreenPosY>481</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Find-All-References</Factory></Window><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Select-Ambiguous-Definitions</Factory></Window></Windows></PreferedWindows>
+        
+        
+        
+        
+      <ColumnWidth0>518</ColumnWidth0><ColumnWidth1>93</ColumnWidth1><ColumnWidth2>746</ColumnWidth2><ColumnWidth3>375</ColumnWidth3></Find-in-Files>
+      <Find-All-References>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>4</Position><ScreenPosX>728</ScreenPosX><ScreenPosY>481</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Build</Factory></Window><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Select-Ambiguous-Definitions</Factory></Window></Windows></PreferedWindows>
+        
+        
+        
+      <ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-All-References>
+      <Select-Ambiguous-Definitions>
+        
+        
+        
+      <PreferedWindows><Position>4</Position><ScreenPosX>728</ScreenPosX><ScreenPosY>481</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Build</Factory></Window><Window><Factory>Find-All-References</Factory></Window><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>279</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Select-Ambiguous-Definitions>
+    <TerminalIO/><Debug-Log><PreferedWindows><Position>4</Position><ScreenPosX>728</ScreenPosX><ScreenPosY>481</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Build</Factory></Window><Window><Factory>Find-All-References</Factory></Window><Window><Factory>Select-Ambiguous-Definitions</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1857</ColumnWidth1></Debug-Log><Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths></Breakpoints><PROJECT_GUI_CALL_GRAPH><col-names><item>File</item><item>Function</item><item>Line</item></col-names><col-widths><item>200</item><item>700</item><item>100</item></col-widths><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></PROJECT_GUI_CALL_GRAPH><Find-All-Declarations><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Select-Ambiguous-Definitions</Factory></Window><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-All-Declarations><SourceBrowser><PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window></Windows></PreferedWindows></SourceBrowser></Static>
+    <Windows>
+      
+      
+    <Wnd1><Tabs><Tab><Identity>TabID-14478-20777</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>BIG_LED</ExpandedNode><ExpandedNode>BIG_LED/CMSIS</ExpandedNode><ExpandedNode>BIG_LED/CMSIS/Device</ExpandedNode><ExpandedNode>BIG_LED/CMSIS/Device/ST</ExpandedNode><ExpandedNode>BIG_LED/CMSIS/Device/ST/STM32F4xx</ExpandedNode><ExpandedNode>BIG_LED/CMSIS/Device/ST/STM32F4xx/Include</ExpandedNode><ExpandedNode>BIG_LED/CMSIS/Device/ST/STM32F4xx/Source</ExpandedNode><ExpandedNode>BIG_LED/CMSIS/Device/ST/STM32F4xx/Source/iar</ExpandedNode><ExpandedNode>BIG_LED/HARDWARE</ExpandedNode><ExpandedNode>BIG_LED/Output</ExpandedNode><ExpandedNode>BIG_LED/include</ExpandedNode><ExpandedNode>BIG_LED/source</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1><Wnd2><Tabs><Tab><Identity>TabID-21864-19248</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-29998-19300</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-10871-31163</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-16706-5787</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab><Tab><Identity>TabID-7054-32594</Identity><TabName>References</TabName><Factory>Find-All-References</Factory><Session/></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\source\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>35</YPos2><SelStart2>1782</SelStart2><SelEnd2>1784</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\include\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>3599</SelStart2><SelEnd2>3599</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\source\udpserver.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>51</YPos2><SelStart2>698</SelStart2><SelEnd2>698</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\source\udpserver.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>264</SelStart2><SelEnd2>264</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CMSIS\Device\ST\STM32F4xx\Source\iar\startup_stm32f407xx.s</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>137</YPos2><SelStart2>10024</SelStart2><SelEnd2>10024</SelEnd2></Tab><ActiveTab>4</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\HARDWARE\led.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>183</YPos2><SelStart2>5270</SelStart2><SelEnd2>5270</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\HARDWARE\led.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>65</YPos2><SelStart2>2610</SelStart2><SelEnd2>2610</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04E3D260><key>iaridepm.enu1</key></Toolbar-04E3D260></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>828</Bottom><Right>470</Right><x>-2</x><y>-2</y><xscreen>204</xscreen><yscreen>103</yscreen><sizeHorzCX>112645</sizeHorzCX><sizeHorzCY>100292</sizeHorzCY><sizeVertCX>260629</sizeVertCX><sizeVertCY>808179</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>151</Bottom><Right>1813</Right><x>-2</x><y>-2</y><xscreen>1815</xscreen><yscreen>153</yscreen><sizeHorzCX>1002209</sizeHorzCX><sizeHorzCY>148978</sizeHorzCY><sizeVertCX>112645</sizeVertCX><sizeVertCY>100292</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

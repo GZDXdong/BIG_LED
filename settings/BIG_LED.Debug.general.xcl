@@ -1,0 +1,15 @@
+"D:\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\Embedded Workbench 7.3\arm\bin\armstlink2.dll" 
+
+"F:\AMAE\AM1026\LED_Module\BIG_LED_update\Debug\Exe\BIG_LED.out" 
+
+--plugin "D:\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR Systems\Embedded Workbench 7.3\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "D:\IAR Systems\Embedded Workbench 7.3\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
